@@ -16,7 +16,7 @@ Depending on how your service provider has set up the payment collections polici
 While scenario 1 is the most ideal, realistically one of 2-5 will be configured as a policy. To avoid any likelihood of these events, it is best recommended to always pay your due invoices on time and never miss a due date.
 
 ### How is my wallet balance calculated?
-Wallet balance (or [Service Balance](/docs/Subscribers/AccountCentre/WalletandTransactions) is a real-time 'ability to spend' on Apiculus CloudConsole. It is a net total of your credit limit, all charges incurred and all payments made for your account.
+Wallet balanceis a net total of your credit limit, all charges incurred and all payments made for your account.
 
 ```
 Service Balance = Credit Limit - sum(Incurred Charges) + sum(Payments)
@@ -81,14 +81,14 @@ No, custom Image uploads are currently not possible on Apiculus CloudConsole.
 ### Can control and worker nodes be scaled individually in a Kubernetes cluster?
 No, when a Kubernetes cluster is scaled, the scaling configurations are applied to all the nodes alike.
 
-The following [scaling modes](/docs/Subscribers/Compute/Kubernetes/ScalingKubernetesClusters) are available:
+The fol are available:
 
 - Scaling the Control Node - this can be done by enabling HA at the time of cluster creation;
 - Scaling the number of Worker Nodes - this can be done by specifying minimum and maximum cluster size (Control Nodes are excluded from these limits);
 - Reconfiguring the Cluster - this can be done by specifying a new number of Worker Nodes and changing their Compute configuration.
 
 ### Is there a way to add or link multiple emails to an account?
-Yes, multiple email IDs can be used to login to the same subscriber 'parent' account by [creating child users](/docs/Subscribers/AccountCentre/TeamandChildUserManagement). Child users are semi-isolated accounts, in the sense that they all have their own identities on Apiculus CloudConsole, but share all resources created in the parent subscriber account.
+Yes, multiple email IDs can be used to login to the same subscriber 'parent' account by Child users are semi-isolated accounts, in the sense that they all have their own identities on Apiculus CloudConsole, but share all resources created in the parent subscriber account.
 
 ### How can I get admin credentials for Windows Instances on Apiculus CloudConsole?
 When you create a Windows Instance on Apiculus CloudConsole, you will receive the password on the email ID registered for your Apiculus CloudConsole account.
