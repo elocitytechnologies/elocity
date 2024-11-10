@@ -1,11 +1,10 @@
 ---
 sidebar_position: 1
 ---
-# Introduction - Test
+# Introduction
 
 Apiculus is an end-to-end cloud-as-a-service solution that addresses the technology, business enablement and customer experience needs of regional, domestic and edge cloud service providers. Apiculus presents itself as an all-in-one technology platform that combines cloud service monetisation, infrastructure management and customer life cycle management, and offers an integrated solution for cloud providers in edge markets.
 
-![Welcome](welcome1.png)
 
 Apiculus enables:
 
@@ -18,9 +17,7 @@ Items in <span class="blue">**blue**</span> are Apiculus software capabilities;
 
 ## Features and Specifications
 This section covers the following:
-- [Self-service and Administration](intro#self-service-and-administration)
-- [Integrated Billing and XaaS Monetisation](intro#integrated-billing-and-xaas-monetisation)
-- [End-to-end Business Enablement](intro#end-to-end-business-enablement)
+
 ### Self-service and Administration
 
 Apiculus brings a powerful layer of self-service along with a multitude of configurable options for managing customer journeys, admin operations and cloud-commerce.
@@ -68,7 +65,7 @@ Apiculus ships with SLA-backed integrated support and all the tools needed to en
 | Integrable with External Billing and ITSM Systems   | Get our team of solution experts to onboard you and accelerate your GTM with our Cloud Accelerator programme.                                                   |
 
 ## Services Catalogue
-The Apiculus cloud catalogue is offered for all production [Availability Zones](/docs/Administration/ServicesManagement/WorkingwithAvailabilityZones), as shown below.
+The Apiculus cloud catalogue is offered for all below.
 
 | #   | Service                                    | Type     | ISV                       |
 | --- | ------------------------------------------ | -------- | ------------------------- |
@@ -77,22 +74,3 @@ The Apiculus cloud catalogue is offered for all production [Availability Zones]
 | 3   | Block Volumes                              | Core     | Apache CloudStack         |
 | 4   | VPC Networking                             | Core     | Apache CloudStack         |
 | 5   | Apiculus Autoscale (deprecated March 2024) | Core     | Apiculus Converge         |
-| 6   | DNS Management                             | Extended | PowerDNS                  |
-| 7   | Multi-cloud AWS                            | Extended | AWS                       |
-| 8   | Metal Instances                            | Extended | Canonical MAAS            |
-| 9   | Virtual Firewall Instances                 | Extended | pfSense/FortiGate VM      |
-| 10  | Load Balancer Instances                    | Extended | Citrix Netscaler VPX      |
-| 11  | Kubernetes Clusters                        | Core     | Apache CloudStack         |
-| 12  | Autoscale Groups                           | Core     | Apache CloudStack         |
-| 13  | Instance & Volume Backups (GA May 2024)    | Core     | StorPool VolumeCare       |
-| 14  | File-level Backups (GA May 2024)           | Extended | Acronis Cyber Protection  |
-| 15  | Databases                                  | Extended | TBD                       |
-| 16  | Virtual Firewall Instances                 | Extended | Fortinet Virtual Firewall |
-| 17  | S2S and RA VPN                             | Core     | Apache CloudStack         |
-| 18  | Images & Snapshots                         | Core     | Apache CloudStack         |
-| 19  | Account-level Storage                      | Core     | Apache CloudStack         |
-| 20  | Account-level Data Transfer                | Core     | Apache CloudStack         |
-| 21  | Managed Services                           | Core     | Service Provider          |
-| 22  | Professional Services                      | Core     | Service Provider          |
-| 23  | QuickPlans                                 | Core     | Service Provider          |
-| 24  | Object Storage/S3                          | Extended | Cloudian HyperStore       |

@@ -148,7 +148,7 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
             type: 'docSidebar',
             sidebarId: 'sidebar4',
             position: 'left',
-            label: 'ReleaseNotes',
+            label: 'Release Notes',
           },
 		  
 	/*	  Here is how you create a drop-down
