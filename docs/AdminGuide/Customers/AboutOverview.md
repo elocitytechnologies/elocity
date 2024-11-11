@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# Overview
+# About Customers
 
 Apiculus supports SMS gateways that can be used for sending SMS notifications, sending one-time passwords (OTP) and verifying mobile number ownership. The following SMS gateways are supported:
 

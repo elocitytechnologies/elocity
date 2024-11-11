@@ -3,22 +3,11 @@ sidebar_position: 2
 ---
 # Abbreviations and Terminologies
 
-Any user with a valid username/email and password can log in to Apiculus and will automatically be directed to their respective control panel based on their user type.
+The following table lists the abbreviations and terminologies used in this guide:
 
-Upon successful login, the navigation is as below:
-
-- Subscriber users (admin and children) - to Apiculus CloudConsole
-- Reseller users - to Apiculus admin console in the reseller view
-- Admin users - to Apiculus admin console
-
-Apiculus stores certain essential and non-third party cookies that are needed for account identification. These are:
-
-- Access token to authenticate session
-- User information like ID, email, type, state and first/last name
-- Other metadata like user's billing currency and payment currency
-
-Additionally, if Google Tag Manager is being used, the connected apps may inject their own cookies into the session. These will be treated as third party cookies and may be blocked by privacy-focused browsers, ad blockers etc.
-
-:::note
-Login attempts and passwords can be managed via sing platform configurations.
-:::
+| Abbreviation                      | Description                        |
+| --------------------------------- | ---------------------------------- |
+| Charge point (CP)/Station/Charger | Electric vehicle charger           |
+| CPOs                              | Charge Point Operators             |
+| CSMS                              | Charging Station Management System |
+| CPMS                              | Charge Point Management System.    |
