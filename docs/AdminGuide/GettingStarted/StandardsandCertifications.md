@@ -3,7 +3,9 @@ sidebar_position: 3
 ---
 # Standards and Certifications
 
-We follow open and interoperable standards for the benefit of the entire EV charger sector. The following table lists some of the global organizations we work with are:
+We follow open and interoperable standards for the benefit of the entire EV charger sector.
+
+The following are some of the global organizations we work with are:
 
 - [OpenADR Alliance – OADR](https://www.openadr.org) 
 - [Open Charge Alliance – OCA](https://www.openchargealliance.org)    

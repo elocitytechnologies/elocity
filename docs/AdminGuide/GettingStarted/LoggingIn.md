@@ -2,7 +2,10 @@
 sidebar_position: 5
 ---
 # Logging In
-
-Forgotten passwords can be reset by clicking on **I have forgotten my password** onf the email entered is valid and exists on the system, instructions to set a new password will be sent over email.
-
-Passwords folloined in the platform configurations.
+Follow these steps to log in to the Elocity HIEV Portal.
+1. Open your web browser and navigate to the [Elocity HIEV Portal](https://hiev.ca).
+   ![Login](img/login.png)
+2. Enter your registered email address and click **Next**.
+   ![Login](img/login2.png)
+3. Enter your password.
+4. Click **Next**. 
