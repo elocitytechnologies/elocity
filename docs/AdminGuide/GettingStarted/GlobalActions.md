@@ -25,5 +25,5 @@ You can apply filters to narrow down data based on specific criteria. To do so, 
 ![Filtering Data](img/filter.png)
 
 ## Searching Data
-You can the global search bar to locate specific data points or entries within the dashboard.
+You can use the global search bar to locate specific data points or entries within the dashboard.
 ![Searching](img/search.png)
