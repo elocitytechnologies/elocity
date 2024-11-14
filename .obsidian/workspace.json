@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AdminGuide/intro.md",
+                "file": "docs/AdminGuide/Dashboard/DashboardOverview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "intro"
+              "title": "DashboardOverview"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AdminGuide/GettingStarted/GlobalActions.md",
+                "file": "docs/AdminGuide/Dashboard/DashboardOverview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GlobalActions"
+              "title": "DashboardOverview"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,8 +177,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eee24fc982f60efb",
+  "active": "7943f0424ff116ec",
   "lastOpenFiles": [
+    "docs/AdminGuide/intro.md",
+    "docs/AdminGuide/Dashboard/DashboardOverview.md",
+    "docs/AdminGuide/Dashboard/img/Overall.png",
+    "docs/AdminGuide/Dashboard/img",
+    "docs/AdminGuide/Dashboard/New folder",
+    "docs/AdminGuide/GettingStarted/GlobalActions.md",
     "build/assets/js/main.f404e1d7.js",
     "build/blog/atom.xml",
     "build/blog/rss.xml",
@@ -188,9 +193,6 @@
     "build/blog/atom.xsl",
     "build/blog/rss.xsl",
     "build/docs/Resources/Datasheets/index.html",
-    "build/docs/Resources/Datasheets",
-    "build/docs/Resources",
-    "build/docs/ReleaseNotes/Ver2400/index.html",
     "build/assets/images/sort-b7da764d545213820b40522d88cb7b2d.png",
     "build/assets/images/resetpassword-8ee460a7977b5722452b7f5b57a75545.avif",
     "build/assets/images/login2-0efaa708d3ab137612621fc49f267a5b.png",
@@ -200,15 +202,12 @@
     "build/assets/images/resetpassword2-ab30e84bbe6925a200bba9d541d66314.avif",
     "build/assets/images/forgotpassword2-60f8c906444dc9ec222ce81de206465c.png",
     "build/assets/images/login-521af44ec6f346f58881e61952e786d6.png",
-    "docs/AdminGuide/GettingStarted/img/filter.png",
     "docs/AdminGuide/GettingStarted/ResettingPassword.md",
-    "docs/AdminGuide/GettingStarted/GlobalActions.md",
     "docs/AdminGuide/GettingStarted/NotificationsandAlerts.md",
     "docs/AdminGuide/GettingStarted/LoggingIn.md",
     "docs/AdminGuide/GettingStarted/SigningUp.md",
     "docs/AdminGuide/GettingStarted/StandardsandCertifications.md",
     "docs/AdminGuide/GettingStarted/AbbreviationsandTerminologies.md",
-    "docs/AdminGuide/intro.md",
     "docs/AdminGuide/Tariff/LaunchingaTariffProfile.md",
     "docs/AdminGuide/Tariff/DesigningNewTariffProfile.md",
     "docs/AdminGuide/Tariff/AboutTariff.md",
@@ -216,7 +215,6 @@
     "docs/AdminGuide/Revenue/AboutRevenue.md",
     "docs/AdminGuide/LoadManagement/AboutLoadManagement.md",
     "docs/AdminGuide/Dashboard/StationsOverview.md",
-    "docs/AdminGuide/Dashboard/DashboardOverview.md",
     "docs/AdminGuide/Customers/AboutOverview.md",
     "docs/AdminGuide/Corporate/AboutOverview.md",
     "docs/AdminGuide/Business/BusinessOverview.md",
