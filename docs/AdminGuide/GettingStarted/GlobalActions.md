@@ -26,4 +26,6 @@ You can apply filters to narrow down data based on specific criteria. To do so, 
 
 ## Searching Data
 You can use the global search bar to locate specific data points or entries within the dashboard.
+
+Additionally, you can use the search function for the fields indicated by the ![lens](img/lens.png) lens icon.
 ![Searching](img/search.png)
