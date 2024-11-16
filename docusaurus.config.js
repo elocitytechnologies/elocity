@@ -171,7 +171,7 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
 		  
 		  {
           href: 'https://hiev.ca', // Change to the desired link
-          label: 'Go to Hiev', // The label of your button
+          label: 'HIEV Portal', // The label of your button
           position: 'right',
           className: 'button button--primary', // Add button classes here
         },
