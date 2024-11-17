@@ -15,7 +15,7 @@ The filters section in the reporting module allows users to refine their reports
 - **Model**: Categorize reports by charging station models.
 - **Connector type**: Filter reports based on the types of connectors used.
 
-![Filters](img/Filters.avif)
+![Filters](img/Filters.png)
 
 ## Reports
 You can use preset and custom time filters, allowing for a more precise narrowing down of the results.
