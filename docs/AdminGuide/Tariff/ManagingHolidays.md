@@ -1,10 +1,18 @@
 ---
-sidebar_position: 3
+sidebar_position: 6
 ---
 # Managing Holidays
-Apiculus supports SMS gateways that can be used for sending SMS notifications, sending one-time passwords (OTP) and verifying mobile number ownership. The following SMS gateways are supported:
-
-
-:::note
-SMS charges and the ability to send domestic and/or international messages are dependent on the SMS provider and the SMS plan that the service provider is on. Apiculus does not include any bundled or standalone SMS subscription.
-:::
+Holidays refer to specific dates or periods when charging station may not be functional because of public holidays, special events, or operator-defined non-working days. 
+## Adding a Holiday
+To add a holiday, follow these steps:
+1. Navigate to **Tariff** > **Holidays**. The following screen appears:
+   ![Holidays](img/Holidays1.png)
+2. Select a date that you want to add as a holiday, and click Add. The date gets added below.
+   ![Holidays](img/Holidays2.png)
+## Deleting a Holiday
+To delete a holiday, follow these steps:
+1. Navigate to **Tariff** > **Holidays**. The following screen appears:
+   ![Holidays](img/Holidays2.png)
+2. Click on the delete icon ![Delete](img/DeleteIcon.png) . The following screen appears:
+   ![Delete Holiday](img/DeleteHoliday.png)
+3. Click on the **Delete** button to confirm.
