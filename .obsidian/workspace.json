@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fefe794402be4c17",
+        "id": "bd4a123c9f61c008",
         "type": "tabs",
         "children": [
           {
-            "id": "c19c018589c4d1e3",
+            "id": "b8d6448fe3fe0421",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AdminGuide/Dashboard/Reporting.md",
+                "file": "docs/AdminGuide/RevenueShare/ManagingRevenueShareGroups.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reporting"
+              "title": "ManagingRevenueShareGroups"
             }
           }
         ]
@@ -163,39 +163,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c19c018589c4d1e3",
+  "active": "b8d6448fe3fe0421",
   "lastOpenFiles": [
-    "docs/AdminGuide/Dashboard/img/filters.png",
+    "build/assets/js/runtime~main.d5fa7f20.js",
+    "build/assets/js/main.a5059681.js.LICENSE.txt",
+    "build/assets/js/main.a5059681.js",
+    "build/assets/js/fef6e4a1.45fea168.js",
+    "build/assets/js/fe7d0654.f5ac2069.js",
+    "build/assets/js/f82cd581.b1022b17.js",
+    "build/assets/js/f81c1134.8349c74f.js",
+    "build/assets/js/f534e150.94a360dd.js",
+    "build/assets/js/f4f34a3a.ad1d3b80.js",
+    "build/assets/js/f35b3901.b6d6d3a0.js",
+    "build/assets/js/f28ba924.7fcd9737.js",
+    "docs/AdminGuide/RevenueShare/ViewingReports.md",
+    "docs/AdminGuide/RevenueShare/img/Reports.png",
+    "docs/AdminGuide/RevenueShare/ManagingEntities.md",
+    "docs/AdminGuide/RevenueShare/ManagingRevenueShareGroups.md",
+    "docs/AdminGuide/RevenueShare/img/DeleteRevShrGrp.png",
+    "docs/AdminGuide/RevenueShare/img/RevShareGrp5.png",
+    "docs/AdminGuide/RevenueShare/img/RevShareGrp4.png",
+    "docs/AdminGuide/RevenueShare/img/RevShareGrp3.png",
+    "docs/AdminGuide/RevenueShare/CreatingRevenueShareGroup.md",
+    "docs/AdminGuide/RevenueShare/img/RevShareGrp2.png",
+    "docs/AdminGuide/RevenueShare/img/RevShareGrp1.png",
+    "docs/AdminGuide/RevenueShare/AboutRevenueShare.md",
+    "().md",
+    "docs/AdminGuide/RevenueShare/img/DeleteEntity.png",
+    "docs/AdminGuide/RevenueShare/img/EditEntity.png",
+    "docs/AdminGuide/RevenueShare/img/Revenue3.png",
+    "docs/AdminGuide/Dashboard/Reporting.md",
     "docs/AdminGuide/Tariff/ManagingHolidays.md",
-    "build/assets/js/main.be5c088a.js",
-    "build/blog/atom.xml",
-    "build/blog/rss.xml",
-    "build/blog/atom.css",
-    "build/blog/rss.css",
-    "build/blog/rss.xsl",
-    "build/blog/atom.xsl",
-    "build/search-index.json",
-    "build/sitemap.xml",
-    "build/docs/Resources/Datasheets/index.html",
-    "build/assets/images/Launch1-06c7c614f3955986183de771c8d24124.png",
-    "docs/AdminGuide/Tariff/img/DeleteHoliday.png",
     "docs/AdminGuide/Tariff/LaunchingaTariffProfile.md",
-    "docs/AdminGuide/Tariff/img/DeleteIcon.png",
-    "docs/AdminGuide/Tariff/img/Holidays2.png",
-    "docs/AdminGuide/Tariff/img/Holidays1.png",
     "docs/AdminGuide/Tariff/DeletingTariffProfile.md",
     "docs/AdminGuide/Tariff/DesigningNewTariffProfile.md",
     "docs/AdminGuide/intro.md",
-    "docs/AdminGuide/Tariff/img/Deactivate.png",
-    "docs/AdminGuide/Tariff/img/DeleteTariff.png",
     "docs/AdminGuide/Tariff/EditingTariffProfile.md",
-    "docs/AdminGuide/Tariff/img/EditTariff2.png",
-    "docs/AdminGuide/Tariff/img/EditTariff.png",
-    "Pasted image 20241117193910.png",
     "docs/AdminGuide/Tariff/AboutTariff.md",
     "docs/AdminGuide/Dashboard/AbnormalEvents.md",
     "docs/AdminGuide/Dashboard/AlertsnNotifications.md",
-    "docs/AdminGuide/Dashboard/Reporting.md",
     "docs/AdminGuide/Dashboard/StationsDowntime.md",
     "docs/AdminGuide/GettingStarted/GlobalActions.md",
     "docs/AdminGuide/Dashboard/StationsOverview.md",
@@ -205,12 +211,6 @@
     "docs/AdminGuide/GettingStarted/NotificationsandAlerts.md",
     "docs/AdminGuide/GettingStarted/LoggingIn.md",
     "docs/AdminGuide/GettingStarted/SigningUp.md",
-    "docs/AdminGuide/GettingStarted/StandardsandCertifications.md",
-    "docs/AdminGuide/Rewards/About Rewards.md",
-    "docs/AdminGuide/Revenue/AboutRevenue.md",
-    "docs/AdminGuide/LoadManagement/AboutLoadManagement.md",
-    "docs/AdminGuide/Customers/AboutOverview.md",
-    "docs/AdminGuide/Corporate/AboutOverview.md",
     "Untitled.canvas"
   ]
 }
