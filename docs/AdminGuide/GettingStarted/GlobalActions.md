@@ -11,7 +11,7 @@ Key global actions include:
 - **[Hiding/Unhiding Columns](#hiding-and-unhiding-columns)**: Customize your view by hiding or unhiding columns as needed.
 - **[Filtering Data](#filtering-data)**: Apply filters to narrow down data based on specific criteria.
 - **[Searching Data](#searching-data)**: Use the global search bar to locate specific data points or entries within the dashboard.
-- **[Downloading Report**/**Exporting Data](#downloading-reportexporting-data)**: Use these button to download the on-screen data in .xls format.
+- [**Downloading Report/Exporting Data**](#downloading-reportexporting-data): Use these button to download the on-screen data in .CSV format.
 
 ## Sorting
 To sort data by ascending or descending order across various columns, click on the column headers with up/down arrows.

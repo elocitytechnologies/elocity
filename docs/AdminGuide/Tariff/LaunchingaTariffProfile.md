@@ -7,8 +7,9 @@ Launching a tariff profile refers to the process of activating a predefined tari
 To launch a tariff profile, follow these steps:
 1. Navigate to **Tariff** > **Tariff Profiles**. The following screen appears:
    ![Launch Tariff](img/Launch1.png)
-2. Under Designed Tariff Profiles, select the tariff you want to launch.
-3. Click the **Launch** button. The following screen appears:
+
+3. Under Designed Tariff Profiles, select the tariff you want to launch.
+4. Click the **Launch** button. The following screen appears:
    ![Launch tariff](img/Launch2.png)
 4. Provide the following details:
 	1. **Launch Name**: Provide a unique and descriptive launch name for the new tariff setting.
@@ -27,7 +28,8 @@ The  Designed Tariff Profile moves to the Launched Tariff Profiles section.
 To deactivate a tariff profile, follow these steps:
 1. In the Launched Tariff Profiles section, select the tariff you want to deactivate.
    ![Deactivate Launched Tariff](img/Launch4.png)
-2. Click the **Deactivate** button. The following screen appears: 
+
+3. Click the **Deactivate** button. The following screen appears: 
 	![Deactivate](img/Deactivate.png)
 1. Select the **Deactivation Date**.
 2. Click on the **Deactivate** button.
