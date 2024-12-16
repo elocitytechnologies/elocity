@@ -3,7 +3,8 @@ sidebar_position: 0
 ---
 # Dashboard Overview
 
-The Dashboard is designed to provide you with a powerful overview of your EV charging operations, bringing essential metrics and insights into one centralized location. With each widget delivering valuable, actionable information, you can make data-driven decisions to enhance efficiency, maximize uptime, and optimize your EV charging business. 
+The Dashboard is designed to provide you with a powerful overview of your EV charging operations, bringing essential metrics and insights into one centralized location. With each widget delivering valuable, actionable information, you can make data-driven decisions to enhance efficiency, maximize uptime, and optimize your EV charging business.
+
 ![Overall](img/Overall1.png)
 ![Overall](img/Overall2.png)
 ![Overall](img/Overall3.png)

@@ -106,3 +106,20 @@ The distribution of station lifetimes is visualized.
 ![Station lifetime histogram](img/Stationlifetime.png)
 ### Power
 ![Power](img/Power.png)
+
+## Downloading Report
+
+You can also download reports to gain valuable insights tailored to your needs. Select the report you want to download, and customize it with the date filters. Then, click the **Download Report** button to save it in CSV format. The CSV file lets you view data at more detailed and granular levels. This process gives you actionable data, helping you make informed decisions and effectively monitor performance or usage trends.
+
+## Subscribing to Reports
+Subscribing to reports ensures you receive regular updates with the data you need, delivered directly to your registered email ID. 
+
+1. Navigate to the **Reports** section and select the report you want to subscribe to.![Subscribe to Reports](img/SubscribetoReports.png)
+
+3. Click the **Subscribe to Reports** button.![Subscribe to Reports](img/SubscribetoReports2.png)
+
+5. Provide the following details on the Report Subscription screen:
+	- **Email Alert Name**: A name to identity the alert.
+	- **Interval**: The frequency at which the report will be sent (daily, every two days, every week. or every month).
+	- **Time**: The time of the day when the report will be sent.
+1. Click **Save**.

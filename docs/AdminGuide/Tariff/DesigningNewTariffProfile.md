@@ -27,7 +27,8 @@ You may contact your account manager for assistance in designing tariff profiles
 To create a new tariff profile, follow these steps:
 	1. Navigate to **Tariff** > **Tariff Profiles**. The following screen appears:
    ![Tariff profiles](img/Tariff.png)
-2. Click on the **Design New Tariff** button. The following screen appears:
+
+3. Click on the **Design New Tariff** button. The following screen appears:
    ![Design New Tariff](img/DesignTariff.png)
 3. Enter the details.
 4. Click **Save**.

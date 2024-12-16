@@ -5,8 +5,9 @@ sidebar_position: 5
 To delete a tariff profile, follow these steps:
 1. Navigate to **Tariff** > **Tariff Profiles**. The following screen appears:
    ![Launch Tariff](img/Launch1.png)
-2. Under Designed Tariff Profiles, select the tariff you want to delete.
-3. Click the **View/Edit** button. The following screen appears:
+
+3. Under Designed Tariff Profiles, select the tariff you want to delete.
+4. Click the **View/Edit** button. The following screen appears:
    ![Edit Tariff](img/EditTariff.png)
 2. Click the **Edit** button.
    ![Edit Tariff](img/EditTariff2.png)
