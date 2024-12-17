@@ -20,7 +20,7 @@ To create a Revenue Share Group, follow these steps:
    ![Revenue Share Group](img/RevShareGrp2.png)
 3. Enter the **Group Name** and select the locations from the **Select Network** drop-down list.
 4. Select the entities from the drop-down lists and specify the revenue share percentage against each of them. Make sure that the sum of all the Revenue Share percentage is 100.
-5. Click the **Save**.
+5. Click the **Save** button.
 
 ## Editing a Revenue Share Group
 To edit a Revenue Share Group, follow these steps:
@@ -33,7 +33,7 @@ To edit a Revenue Share Group, follow these steps:
    ![Revenue Share Group](img/RevShareGrp4.png)
 4. Make the desired changes.
    ![Revenue Share Group](img/RevShareGrp5.png)
-5. Click **Save**.
+5. Click the **Save** button.
 
 ## Deleting a Revenue Share Group
 To delete a Revenue Share Group, follow these steps:

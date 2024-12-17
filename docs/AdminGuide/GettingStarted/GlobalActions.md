@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 9
 ---
 # Global Actions
 
@@ -32,5 +32,5 @@ Additionally, you can use the search function for the fields indicated by the ![
 ![Searching](img/search.png)
 
 ## Downloading Report/Exporting Data
-You the use the **Download Report** or **Export Data** button available on the screens to download the data in .xls format to your computer for offline analysis. 
+You the use the **Download Report** or **Export Data** button available on the screens to download the data in .CSV format to your computer for offline analysis. 
 ![Download Data](img/DownloadReport.png)

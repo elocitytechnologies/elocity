@@ -22,6 +22,9 @@ With real-time data and flexible filtering capabilities, you can proactively mon
 Additionally, you can use the search function (indicated by the lens icon  ![lens](img/lens.png)  to highlight search-enabled fields) and the online/offline filter to swiftly find specific chargers.
 ![Startions Ovewview](img/StationsOverviewFilters2.png)
 
+:::note
+In addition to the filtered data being displayed in the tabular format, the map on the right also refreshes to display the filtered details related to the charging stations. You can zoom in over the map to view granular details and hover your mouse over locations to view details.
+:::
 ## Connector Status
 
 The following table lists the different states of a station connector.
