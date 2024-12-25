@@ -32,5 +32,5 @@ Additionally, you can use the search function for the fields indicated by the ![
 ![Searching](img/search.png)
 
 ## Downloading Report/Exporting Data
-You the use the **Download Report** or **Export Data** button available on the screens to download the data in .CSV format to your computer for offline analysis. 
+Wherever available, you can use the **Download Report** or **Export Data** button on the screens to seamlessly download the displayed data in .CSV format. This functionality allows you to save the data directly to your computer, enabling you to perform offline analysis, share it with team members, or archive it for future reference and compliance purposes. 
 ![Download Data](img/DownloadReport.png)
