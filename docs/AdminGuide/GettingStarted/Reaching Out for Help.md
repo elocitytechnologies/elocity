@@ -11,3 +11,5 @@ If you have questions or need support, help is just a click away!
 
 1. In addition, you can take a screenshot that you may want to share with the support team or upload up to five files with your message.
 2. Then, click the **Send** button.
+
+Someone from the Elocity support team will reach out to you for assistance as soon as possible.
