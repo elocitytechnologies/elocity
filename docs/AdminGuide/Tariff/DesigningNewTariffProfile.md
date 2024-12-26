@@ -32,7 +32,7 @@ To create a new flat tariff profile, follow these steps:
 
 The Variable Tariff option offers more advanced configurations, providing a range of settings to meet tariff setting requirements. 
 
-The Variable tariff is of following types:
+The Variable tariff is of the following types:
 - [Simple](#simple-variable-tariff)
 - [Advanced](#advanced-variable-tariff)
 
