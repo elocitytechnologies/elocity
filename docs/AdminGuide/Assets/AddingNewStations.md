@@ -2,10 +2,9 @@
 sidebar_position: 5
 ---
 # Adding New Stations
+You can add new stations at the existing [locations](ManagingLocations).
 
-Apiculus supports SMS gateways that can be used for sending SMS notifications, sending one-time passwords (OTP) and verifying mobile number ownership. The following SMS gateways are supported:
-
-
-:::note
-SMS charges and the ability to send domestic and/or international messages are dependent on the SMS provider and the SMS plan that the service provider is on. Apiculus does not include any bundled or standalone SMS subscription.
-:::
+1. Navigate to **Assets** > **Station Management**. The following screen appears, which displays a comprehensive list of stations along with the associated details in a tabular format:![Managing Locations](img/ManagingStations.png)
+2. Click on the **Add New Station** button.![Add Station](img/AddStation.png)
+3. Enter the necessary details.
+4. Click **Save**.

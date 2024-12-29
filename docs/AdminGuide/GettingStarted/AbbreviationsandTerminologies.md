@@ -11,4 +11,4 @@ The following table lists the abbreviations and terminologies used in this guide
 | CP                           | Charge Point                       |
 | CPO                          | Charge Point Operator              |
 | CSMS                         | Charging Station Management System |
-| CPMS                         | Charge Point Management System     |
+| CPMS                         | Charging Point Management System   |

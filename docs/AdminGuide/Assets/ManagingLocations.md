@@ -5,7 +5,7 @@ sidebar_position: 2
 
 Every station integrated into the network must be associated with a specific location. Accurate address details, along with latitude and longitude information, are crucial for customer navigation through mobile applications.
 
-Navigate to **Assets** > **Locations Management**. The following screen appears, which displays a comprehensive list of locations along with the associated details in tabular format:![Managing Locations](img/ManagingLocations.png)
+Navigate to **Assets** > **Location Management**. The following screen appears, which displays a comprehensive list of locations along with the associated details in a tabular format:![Managing Locations](img/ManagingLocations.png)
 
 ## Filtering Locations
 You can filter and view only limited number of locations using the following filters:
@@ -17,6 +17,8 @@ You can filter and view only limited number of locations using the following fil
 - **Access** -  Select **Public** or **Private** from the drop-down list.
 ![Filtering Locations](img/FilteringLocations.png)
 
+## Exporting Location Details
+You can export the location details in a .CSV format for offline viewing and analysis. To do so, click on the **Export Locations** button. 
 ## Viewing and Managing Location Details
 Click anywhere inside a location record row. The following screen appears where you can view and manage the details for the selected location:![Location Information](img/LocationInfo.png)
 
@@ -38,7 +40,7 @@ To edit the notes, click on the **Edit** button, make the desired changes to the
 ### Managing Photos
 Click on the **Photos** tab. The screen displays the photos associated with the location:![Location Info](img/Photos.png)
 
-To delete photos, select the photos, click on the **Delete** button. Click the **Select All** button to select all the photos at once. ![Edit Info](img/SelectPhotos.png)
+To delete photos, select the photos, or click the **Select All** button to select all the photos at once. Then, click on the **Delete** button.  ![Edit Info](img/SelectPhotos.png)
 
 To upload photos, click the **Add Photo** button. The following screen appears from where you can add more photos from your device.![Add Photos](img/AddPhotos.png)
 
@@ -47,9 +49,9 @@ Click on the **Reviews** tab. The screen displays reviews provided by the custom
 
 ### Managing Timings
 Click on the **Timings** tab. The screen displays the operational timings associated with the location:![Location Info](img/Timings.png)
-
 To edit the timings, follow these steps: 
 1. Click on the **Edit** button. 
-2. Select **Customized** from the **Timings** drop-down list. 
-3. Make the required changes.
-4. Click the **Save** button.![Edit Info](img/CustomTimings.png)
+2. Select **Open 24/7** or **Customized** from the Timings drop-down list.
+	1. Select **Open 24/7** if you want the location to be operational at all times.
+	2. Select **Customized** to set the custom timings of operations for the location.![Edit Info](img/CustomTimings.png)
+4. Click the **Save** button.

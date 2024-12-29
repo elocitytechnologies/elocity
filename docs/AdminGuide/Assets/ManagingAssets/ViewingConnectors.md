@@ -3,9 +3,4 @@ sidebar_position: 1
 ---
 # Viewing Connectors
 
-Apiculus Object Storage (AS3) provides scalable and flexible storage for unstructured data in the form of objects. In object storage, data is stored as discrete objects containing data, metadata, and a unique identifier. Apiculus delivers the service as an integration with Cloudian HyperStore.
-
-:::note
-The following are not yet supported on AS3:
-- **Glacier support** - Archival storage using Glacier is not yet available.
-:::
+To view all the connectors, navigate to **Assets** > **Asset Settings**. The following screen appears that lists all the connectors under the **Connectors** tab.![Connectors](img/Connectors2.png)
