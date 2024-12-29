@@ -3,9 +3,11 @@ sidebar_position: 3
 ---
 # Managing Electric Vehicle Manufacturers
 
-Apiculus Object Storage (AS3) provides scalable and flexible storage for unstructured data in the form of objects. In object storage, data is stored as discrete objects containing data, metadata, and a unique identifier. Apiculus delivers the service as an integration with Cloudian HyperStore.
+To view all the Electric Vehicle Manufacturers:
+1. Navigate to **Assets** > **Asset Settings**. 
+2. Click on the **Electric Vehicle Manufacturers** tab. The following screen appears that lists all the available EVSE models.![Electric Vehicle Manufacturers](img/EVM.png)
 
-:::note
-The following are not yet supported on AS3:
-- **Glacier support** - Archival storage using Glacier is not yet available.
-:::
+## Adding Electric Vehicle Manufacturer
+1. To add a new Electric Vehicle Manufacturer, click on the **Add Manufacturer** button.![Add EVSE Model](img/AddEVM.png)
+2. Enter the name of Electric Vehicle Manufacturer.
+3. Click **Save**.

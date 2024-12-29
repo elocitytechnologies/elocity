@@ -3,9 +3,11 @@ sidebar_position: 4
 ---
 # Managing Electric Vehicle Models
 
-Apiculus Object Storage (AS3) provides scalable and flexible storage for unstructured data in the form of objects. In object storage, data is stored as discrete objects containing data, metadata, and a unique identifier. Apiculus delivers the service as an integration with Cloudian HyperStore.
+To view all the Electric Vehicle Models:
+1. Navigate to **Assets** > **Asset Settings**. 
+2. Click on the **Electric Vehicle Models** tab. The following screen appears that lists all the available EVSE models.![Electric Vehicle Manufacturers](img/EVModels.png)
 
-:::note
-The following are not yet supported on AS3:
-- **Glacier support** - Archival storage using Glacier is not yet available.
-:::
+## Adding Electric Vehicle Model
+1. To add a new Electric Vehicle Model, click on the **Add Model** button.![Add EV Model](img/AddEVModel.png)
+2. On the **Add Model** screen on the right, enter the details of Electric Vehicle Model.
+3. Click **Save**.
