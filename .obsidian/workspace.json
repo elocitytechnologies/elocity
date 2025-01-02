@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AdminGuide/Customers/ViewingCustomerFeedbacks.md",
+                "file": "docs/AdminGuide/Customers/ManagingCustomers/MigratingCustomerstoCorporates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ViewingCustomerFeedbacks"
+              "title": "MigratingCustomerstoCorporates"
             }
           }
         ]
@@ -165,9 +165,11 @@
   },
   "active": "b8d6448fe3fe0421",
   "lastOpenFiles": [
+    "docs/AdminGuide/Customers/ManagingCustomers/img/Migrate2.png",
+    "docs/AdminGuide/Customers/ManagingCustomers/img/Migrate1.png",
+    "docs/AdminGuide/Customers/ViewingCustomerFeedbacks.md",
     "docs/AdminGuide/Customers/img/Feedbacks.png",
     "docs/AdminGuide/Customers/ManagingRFIDs.md",
-    "docs/AdminGuide/Customers/ViewingCustomerFeedbacks.md",
     "docs/AdminGuide/Customers/ManagingCustomers/ManagingInactiveCustomers.md",
     "docs/AdminGuide/Customers/ViewingChargingSessions.md",
     "docs/AdminGuide/Customers/img/EditRFID2.png",
@@ -184,8 +186,6 @@
     "docs/AdminGuide/Customers/ManagingCustomerGroups/ManagingCustomerGroups.md",
     "docs/AdminGuide/Customers/ManagingCustomerGroups/img/Session1.png",
     "docs/AdminGuide/Customers/ManagingCustomerGroups/AddingNewCustomerGroup.md",
-    "docs/AdminGuide/Customers/ManagingCustomerGroups/img/Add1.png",
-    "docs/AdminGuide/Customers/ManagingCustomerGroups/img/EditGroup.png",
     "build/assets/js/main.f0f91914.js",
     "build/blog/rss.xml",
     "build/blog/atom.xml",
