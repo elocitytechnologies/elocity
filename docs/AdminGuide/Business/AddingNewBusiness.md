@@ -1,11 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 # Adding New Business
-
-Apiculus supports SMS gateways that can be used for sending SMS notifications, sending one-time passwords (OTP) and verifying mobile number ownership. The following SMS gateways are supported:
-
-
-:::note
-SMS charges and the ability to send domestic and/or international messages are dependent on the SMS provider and the SMS plan that the service provider is on. Apiculus does not include any bundled or standalone SMS subscription.
-:::
+To add a new business, follow these steps:
+1. Navigate to **Business** > **Add New Business**. The following screen appears:![Add New Business](img/Business4.png)
+2. Enter all the required details. Fields marked with asterisk (__*__) are mandatory.
+3. Click **Save**.
