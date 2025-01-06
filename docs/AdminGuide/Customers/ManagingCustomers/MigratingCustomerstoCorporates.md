@@ -2,7 +2,6 @@
 sidebar_position: 4
 ---
 # Migrating Customers to Corporates
-
 To migrate active customers to corporates, follow these steps:
 1. Navigate to **Customer** > **Customers**. The following screen appears that displays all the active customers under the **Active Customers** tab.![Customers](img/Customers1.png)
 2. Click on the **Migrate to Corporate** button. The following screen appears:![Migrate to Corporate](img/Migrate1.png)
