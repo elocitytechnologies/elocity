@@ -3,6 +3,6 @@
   "position": 3,
   "link": {
     "type": "generated-index",
-	  "description": "Let us learn the most important concepts."
+	  "description": "Scheduled charging groups in Elocity are predefined sets of EV chargers or charging stations that are grouped together to operate on a specific charging schedule. These groups help optimize energy usage and manage grid load by controlling when and how EVs are charged. Users can set charging times, prioritize certain groups, and allocate energy based on demand patterns, cost considerations, or grid constraints. Scheduled charging groups are particularly useful for businesses, fleet operators, or utilities to ensure efficient energy distribution, reduce peak demand charges, and support sustainability goals by aligning with renewable energy availability."
   }
 }
