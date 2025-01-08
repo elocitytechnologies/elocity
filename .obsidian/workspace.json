@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bd4a123c9f61c008",
+        "id": "cfcd276936b9d252",
         "type": "tabs",
         "children": [
           {
-            "id": "b8d6448fe3fe0421",
+            "id": "e80ce40d6285a373",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/AdminGuide/LoadManagement/ManagingScheduledCharging/DesigingaScheduledGroup.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "DesigingaScheduledGroup"
+              "title": "New tab"
             }
           }
         ]
@@ -163,37 +159,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8d6448fe3fe0421",
+  "active": "e80ce40d6285a373",
   "lastOpenFiles": [
+    "Pasted image 20241117193910.png",
+    "Pasted image 20241117191424.png",
+    "Pasted image 20241117192057.png",
+    "().md",
+    "docs/AdminGuide/Corporate/AddingNewCorporate.md",
+    "docs/AdminGuide/Business/AddingNewBusiness.md",
+    "docs/AdminGuide/Corporate/ManagingEmployees.md",
+    "docs/AdminGuide/Corporate/ManagingCorporate.md",
+    "docs/AdminGuide/Corporate/ViewingChargingSessions.md",
+    "docs/AdminGuide/Corporate/ManagingGroups.md",
+    "docs/AdminGuide/Corporate/img/Charging1.png",
+    "docs/AdminGuide/Corporate/img/UploadCSV.png",
+    "docs/AdminGuide/Corporate/img/MultipleEmployees.png",
+    "docs/AdminGuide/Corporate/img/SingleEmployee.png",
+    "docs/AdminGuide/Corporate/img/Employee5.png",
+    "docs/AdminGuide/Corporate/img/Employee4.png",
+    "docs/AdminGuide/Corporate/img/Employee3.png",
+    "docs/AdminGuide/Corporate/img/Employee2.png",
+    "docs/AdminGuide/Corporate/ManagingInfo.md",
+    "docs/AdminGuide/Corporate/img/Corporate1.avif.crdownload",
+    "docs/AdminGuide/Corporate/img",
+    "docs/AdminGuide/Corporate/New folder",
+    "docs/AdminGuide/Notifications.md",
+    "docs/AdminGuide/Reservations.md",
+    "docs/AdminGuide/img/Reservation1.avif.crdownload",
+    "docs/AdminGuide/LoadManagement/ManagingScheduledCharging/DesigingaScheduledGroup.md",
     "build/blog/atom.xml",
     "build/blog/rss.xml",
     "build/blog/rss.css",
     "build/blog/atom.css",
     "build/blog/rss.xsl",
     "build/blog/atom.xsl",
-    "build/docs/FAQs/index.html",
-    "build/docs/Resources/Datasheets/index.html",
-    "build/docs/Resources/Datasheets",
-    "build/docs/Resources",
-    "build/docs/ReleaseNotes/Ver2400/index.html",
     "docs/AdminGuide/LoadManagement/ManagingScheduledCharging/EditingaScheduledChargingGroup.md",
-    "docs/AdminGuide/LoadManagement/ManagingScheduledCharging/DesigingaScheduledGroup.md",
-    "docs/AdminGuide/LoadManagement/ManagingScheduledCharging/img/New2.png",
-    "docs/AdminGuide/LoadManagement/ManagingScheduledCharging/img/New1.png",
     "docs/AdminGuide/LoadManagement/ManagingScheduledCharging/DeletingaScheduledChargingGroup.md",
     "docs/AdminGuide/LoadManagement/ManagingScheduledCharging/ViewingScheduledChargingGroups.md",
-    "docs/AdminGuide/LoadManagement/ManagingScheduledCharging/img/Delete.png",
-    "docs/AdminGuide/LoadManagement/ManagingScheduledCharging/img/EditSchedule.png",
-    "Pasted image 20250106224438.png",
-    "docs/AdminGuide/LoadManagement/ManagingScheduledCharging/img/Info2.png",
-    "docs/AdminGuide/LoadManagement/ManagingScheduledCharging/img/Reports.png",
-    "docs/AdminGuide/LoadManagement/ManagingScheduledCharging/img/Schedule.png",
-    "docs/AdminGuide/LoadManagement/ManagingScheduledCharging/img/Info.png",
-    "docs/AdminGuide/LoadManagement/ManagingScheduledCharging/img/Schedule3.png",
     "docs/AdminGuide/LoadManagement/ManagingLoadGroups/Analytics.md",
     "docs/AdminGuide/LoadManagement/ManagingLoadGroups/ManagingLoadManagementGroups.md",
     "docs/AdminGuide/LoadManagement/ManagingLoadGroups/DesigningNewLoadGroup.md",
-    "docs/AdminGuide/Business/AddingNewBusiness.md",
     "docs/AdminGuide/Customers/ViewingCustomerFeedbacks.md",
     "docs/AdminGuide/Customers/ViewingChargingSessions.md",
     "docs/AdminGuide/Customers/ManagingRFIDs.md",
@@ -202,15 +207,6 @@
     "docs/AdminGuide/Customers/ManagingCustomers/ManagingActiveCustomers.md",
     "docs/AdminGuide/Business/ManagingABusiness.md",
     "docs/AdminGuide/LoadManagement/AboutLoadManagement.md",
-    "docs/AdminGuide/Business/ManagingInvoice.md",
-    "docs/AdminGuide/Rewards/AddingPromoCode.md",
-    "docs/AdminGuide/Rewards/LaunchingaPromoCode.md",
-    "docs/AdminGuide/Rewards/ViewingandEditingPromoCode.md",
-    "docs/AdminGuide/Rewards/ManagingPromoCodes/AddingNewPromoCode.md",
-    "docs/AdminGuide/Customers/ManagingCustomerGroups/ManagingCustomerGroups.md",
-    "docs/AdminGuide/Customers/ManagingCustomerGroups/AddingNewCustomerGroup.md",
-    "docs/AdminGuide/Customers/ManagingCustomers/AddingNewCustomer.md",
-    "docs/AdminGuide/Administration/ManagingUsers/EditingUser.md",
     "Untitled.canvas"
   ]
 }
