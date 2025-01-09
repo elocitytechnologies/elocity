@@ -3,8 +3,8 @@ sidebar_position: 1
 ---
 # Managing a Business
 As part of managing a business, you can perform the following tasks:
-- [Viewing a Business](#viewing-a-business)
-- [Editing a Business](#editing-a-business)
+- [Viewing Business Details](#viewing-business-details)
+- [Editing Business Details](#editing-business-details)
 ## Viewing Business Details
 To view a business, follow these steps:
 1. Navigate to **Business** > **Manage Businesses**. The following screen appears that lists all the businesses registered in the system.![Manage Business](img/Business1.png)
