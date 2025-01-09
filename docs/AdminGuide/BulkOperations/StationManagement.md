@@ -3,9 +3,10 @@ sidebar_position: 2
 ---
 # Station Management
 
-Apiculus supports SMS gateways that can be used for sending SMS notifications, sending one-time passwords (OTP) and verifying mobile number ownership. The following SMS gateways are supported:
-
-
-:::note
-SMS charges and the ability to send domestic and/or international messages are dependent on the SMS provider and the SMS plan that the service provider is on. Apiculus does not include any bundled or standalone SMS subscription.
-:::
+The Elocity web app simplifies station management by allowing admins to seamlessly add and edit multiple stations at once for their EV charging infrastructure from a centralized dashboard.
+1. Navigate to **Bulk Operations** > **Bulk Operations**. The following screen appears:![Location Management](img/Bulk1.png)
+2. Select **Station Management** from the **Select Type** drop-down list.![Location Management](img/Bulk3.png)
+3. Click on the **Download Template** button to download the template file in a .xlsx format. 
+4. Enter the stations and the associated details in the downloaded .xlsx file.
+5. Click the **Upload file** button to select the updated .xlsx file.![Location Management](img/Bulk4.png)
+6. Click **Upload**.

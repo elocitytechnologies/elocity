@@ -3,9 +3,9 @@ sidebar_position: 1
 ---
 # Location Management
 
-Apiculus supports SMS gateways that can be used for sending SMS notifications, sending one-time passwords (OTP) and verifying mobile number ownership. The following SMS gateways are supported:
-
-
-:::note
-SMS charges and the ability to send domestic and/or international messages are dependent on the SMS provider and the SMS plan that the service provider is on. Apiculus does not include any bundled or standalone SMS subscription.
-:::
+The Elocity web app simplifies location management by allowing admins to seamlessly add and edit multiple locations at once for their EV charging infrastructure from a centralized dashboard.
+1. Navigate to **Bulk Operations** > **Bulk Operations**. The following screen appears:![Location Management](img/Bulk1.png)
+2. Click on the **Download Template** button to download the template file in a .xlsx format. 
+3. Enter the locations and the associated details in the downloaded .xlsx file.
+4. Click the **Upload file** button to select the updated .xlsx file.![Location Management](img/Bulk2.png)
+5. Click **Upload**.
