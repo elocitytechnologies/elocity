@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Datasheets
 
-Apiculus supports (basic) account and access management using REST API. The details are as follows:
+Supports (basic) account and access management using REST API. The details are as follows:
 
 ```jsx
 API endpoint URL: https://<api_url>
