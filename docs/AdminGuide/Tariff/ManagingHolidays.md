@@ -8,7 +8,7 @@ To add a holiday, follow these steps:
 1. Navigate to **Tariff** > **Holidays**. The following screen appears:
    ![Holidays](img/Holidays1.png)
 
-3. Select a date that you want to add as a holiday, and click Add. The date gets added below.
+3. Select a date that you want to add as a holiday, and click **Add**. The date gets added below.
    ![Holidays](img/Holidays2.png)
 ## Deleting a Holiday
 To delete a holiday, follow these steps:

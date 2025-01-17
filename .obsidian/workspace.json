@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AdminGuide/Dashboard/AbnormalEvents.md",
+                "file": "docs/AdminGuide/Assets/ManagingStations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AbnormalEvents"
+              "title": "ManagingStations"
             }
           }
         ]
@@ -165,9 +165,19 @@
   },
   "active": "e80ce40d6285a373",
   "lastOpenFiles": [
-    "docs/AdminGuide/Dashboard/AlertsnNotifications.md",
-    "docs/AdminGuide/Dashboard/AbnormalEvents.md",
+    "docs/AdminGuide/Assets/ManagingLocations.md",
+    "docs/AdminGuide/Assets/AddingNewStations.md",
+    "docs/AdminGuide/Assets/AddingNewLocation.md",
+    "docs/AdminGuide/RevenueShare/ManagingRevenueShareGroups.md",
+    "docs/AdminGuide/RevenueShare/ManagingEntities.md",
+    "docs/AdminGuide/Tariff/ManagingHolidays.md",
+    "docs/AdminGuide/Dashboard/Reporting.md",
+    "docs/AdminGuide/Dashboard/StationsDowntime.md",
     "docs/AdminGuide/Dashboard/DashboardOverview.md",
+    "docs/AdminGuide/Dashboard/AlertsnNotifications.md",
+    "docs/AdminGuide/GettingStarted/NotificationsandAlerts.md",
+    "docs/AdminGuide/GettingStarted/SigningUp.md",
+    "docs/AdminGuide/Dashboard/AbnormalEvents.md",
     "docs/ReleaseNotes/Ver2400.md",
     "docs/Resources/Datasheets.md",
     "docs/FAQs/FAQs.md",
@@ -201,16 +211,6 @@
     "().md",
     "docs/AdminGuide/Corporate/AddingNewCorporate.md",
     "docs/AdminGuide/Business/AddingNewBusiness.md",
-    "docs/AdminGuide/Corporate/ManagingEmployees.md",
-    "docs/AdminGuide/Corporate/ManagingCorporate.md",
-    "docs/AdminGuide/Corporate/ViewingChargingSessions.md",
-    "docs/AdminGuide/Corporate/ManagingGroups.md",
-    "docs/AdminGuide/Corporate/ManagingInfo.md",
-    "docs/AdminGuide/LoadManagement/ManagingScheduledCharging/DesigingaScheduledGroup.md",
-    "docs/AdminGuide/LoadManagement/ManagingScheduledCharging/EditingaScheduledChargingGroup.md",
-    "docs/AdminGuide/LoadManagement/ManagingScheduledCharging/DeletingaScheduledChargingGroup.md",
-    "docs/AdminGuide/LoadManagement/ManagingScheduledCharging/ViewingScheduledChargingGroups.md",
-    "docs/AdminGuide/LoadManagement/ManagingLoadGroups/Analytics.md",
     "Untitled.canvas"
   ]
 }

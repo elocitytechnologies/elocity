@@ -20,7 +20,7 @@ Navigate to **Assets** > **Station Management**. The following screen appears, w
 3. Click on **Add**/**Online**/**Office** buttons to view the respective stations.![Filtering Locations](img/FilteringStations.png)
 
 ## Viewing Location Details
-To view the [location details](ManagingLocations) associated with the station, click in the location name in the **Location** column.
+To view the [location details](ManagingLocations) associated with the station, click on the location name in the **Location** column.
 ## Exporting Station Details
 You can export the station details in a .CSV format for offline viewing and analysis. To do so, click on the **Export Stations** button.
 
