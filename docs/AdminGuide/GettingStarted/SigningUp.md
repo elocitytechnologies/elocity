@@ -17,7 +17,7 @@ Follow these steps to sign up on the Elocity Smart Charging network:
 8. **Complete Account Setup:** Once the new password is established, follow the on-screen instructions to complete the account setup process.
 
 :::note
-Ensure that the new password meets the security requirements specified by Elocity Web Portal.
+Ensure that the new password meets the security requirements specified by the Elocity Web Portal.
 :::
 
 Your Elocity HIEV account is now ready for use. If you encounter any issues during the sign-up process, please contact your Account Manager for assistance.
