@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 # Viewing Firmware Updates
 
-To view all the firmware updates, navigate to **Assets** > **Firmware Management**. The following list shows all the [uploaded firmware](#viewing-uploaded-firmware) and the [firmware jobs](#viewing-firmware-jobs) under the respective tabs.![View Firmware Updates](img/Firmware.png)
+To view all the firmware updates, navigate to **Assets** > **Firmware Management**. The following screen shows all the [uploaded firmware](#viewing-uploaded-firmware) and the [firmware jobs](#viewing-firmware-jobs) under the respective tabs.![View Firmware Updates](img/Firmware.png)
 
 ## Viewing Uploaded Firmware
 To view the list of uploaded firmware, navigate to the **UPLOADED** tab.

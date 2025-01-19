@@ -7,7 +7,7 @@ Locations refer to physical spaces or venues where new charging stations can be 
 You must add the location before you [**add charging stations**](AddingNewStations).
 :::
 
-To add new a new location follow these steps:
+To add a new location follow these steps:
 1. Navigate to **Assets** > **Locations Management**. The following screen appears, which displays a comprehensive list of locations along with the associated details in a tabular format:![Managing Locations](img/ManagingLocations.png)
 2. Click on the **Add New Location** button. The following screen appears:![Add New Location](img/AddLocation.png)
 3. Click and select ![Marker](img/Marker.png)  (marker icon) and drop it on the map at the new location.
