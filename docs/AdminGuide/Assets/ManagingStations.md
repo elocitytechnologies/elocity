@@ -11,7 +11,7 @@ Navigate to **Assets** > **Station Management**. The following screen appears, w
 
 ## Filtering Stations
 1. Click on **Active**/**Decommissioned** tabs to view the respective stations.
-2. You can filter and view only limited number of stations using the following filters:
+2. You can filter and limit the number of stations using the following filters:
 	- **Locations** - Select one or more locations from the drop-down list.
 	- **Chargers** - Select one or more states from the drop-down list.
 	- **Models** - Select one or more cities from the drop-down list.
@@ -29,7 +29,7 @@ To download a QR code associated with a station, click on the **QR Code** link i
 Click on the **Print** button to proceed with printing the QR code.
 
 ## Downloading QR Codes in Bulk
-You can down station QR codes in bulk. To do so, click on the **Download QR Codes** button. All the QR codes for all the stations will be download in a compresses .ZIP file.
+You can download station QR codes in bulk. To do so, click on the **Download QR Codes** button. All the QR codes for all the stations will be download in a compresses .ZIP file.
 
 ## Viewing and Managing Station Details
 Click anywhere inside a station record row. The following screen appears where you can view and manage the details associated with the selected station:![Location Information](img/StationInfo.png)
@@ -67,9 +67,9 @@ Details of frequently used station actions are as follows:
 Charge point operator can set the availability of the charger to Operative/Inoperative using this function.
 - **Operative:** A station is operative when the charge point is charging or is ready for a new charging session.
 - **Inoperative:** A station set inoperative mode, will be no longer be available for charging.
-Operator must select the availability mode and click on “Perform action” to implement the changes. Once the change is made, web portal will show a message saying the action was performed successfully.
+Operator must select the availability mode and click on **Perform Action** to implement the changes. Once the change is made, web portal will show a message saying the action was performed successfully.
 ##### Reset Station
-Web portal can request a station to reset itself either via soft reset or hard reset.
+Web portal can request a station reset either via soft reset or hard reset.
 - **Soft Reset:** This operation will restart the application software.
 - **Hard Reset:** A hard reset can be performed as last option to fix a misbehaving charger. This will restart the hardware.
 ##### Change Configuration
@@ -78,10 +78,10 @@ Select **Change Configuration** for configuration change requests can be effortl
 - **Configuration Key:** If opting for predefined keys, select the specific configuration parameter from the provided list. Alternatively, CPOs can enter a custom key by selecting the custom key option if the desired configuration parameter is not available in the predefined list.
 - **Value:** Input the new value in the Value box
 
-Click on **Perform Action** to send the request. Once the changes are made CPMS will the status as **Success**.
+Click on **Perform Action** to send the request. Once the changes are made CPMS will set the status as **Success**.
 
 ##### Clear Cache
-The Clear Cache command can be sent to a Charge Point to reset or clear the authorization cache in the device.
+The **Clear Cache** command can be sent to a Charge Point to reset or clear the authorization cache in the device.
 
 ##### Get Configuration
 CPOs can conveniently review the configuration settings on a device by selecting the desired configuration key and clicking **Perform Action**.

@@ -8,7 +8,7 @@ Every station integrated into the network must be associated with a specific loc
 Navigate to **Assets** > **Location Management**. The following screen appears, which displays a comprehensive list of locations along with the associated details in a tabular format:![Managing Locations](img/ManagingLocations.png)
 
 ## Filtering Locations
-You can filter and view only limited number of locations using the following filters:
+You can filter and limit the number of locations you want to view using the following filters:
 - **Locations** - Select one or more locations from the drop-down list.
 - **States** - Select one or more states from the drop-down list.
 - **Cities** - Select one or more cities from the drop-down list.
@@ -30,7 +30,7 @@ To edit the location details, click on the **Edit** button, make the desired cha
 ### Managing Facilities
 Click on the **Facilities** tab. The screen displays the facilities associated with the location:![Location Info](img/Facilities.png)
 
-To edit the facilities, click on the **Edit** button, select all the facilities associated with the location from the Select Facilities drop-down list, and click the **Save** button.![Edit Info](img/EditFacilities.png)
+To edit the facilities, click on the **Edit** button, select all the facilities associated with the location from the **Select Facilities** drop-down list, and click the **Save** button.![Edit Info](img/EditFacilities.png)
 
 ### Managing Notes
 Click on the **Notes** tab. The screen displays the notes associated with the location:![Location Info](img/Notes.png)

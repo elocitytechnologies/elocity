@@ -5,7 +5,7 @@ sidebar_position: 3
 
 To view all the Electric Vehicle Manufacturers:
 1. Navigate to **Assets** > **Asset Settings**. 
-2. Click on the **Electric Vehicle Manufacturers** tab. The following screen appears that lists all the available EVSE models.![Electric Vehicle Manufacturers](img/EVM.png)
+2. Click on the **Electric Vehicle Manufacturers** tab. The following screen appears that lists all the available Electric Vehicle Manufacturers.![Electric Vehicle Manufacturers](img/EVM.png)
 
 ## Adding Electric Vehicle Manufacturer
 1. To add a new Electric Vehicle Manufacturer, click on the **Add Manufacturer** button.![Add EVSE Model](img/AddEVM.png)
