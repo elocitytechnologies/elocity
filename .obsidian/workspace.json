@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AdminGuide/Assets/ManagingFirmware/ViewingFirmwareUpdates.md",
+                "file": "docs/ReleaseNotes/intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ViewingFirmwareUpdates"
+              "title": "intro"
             }
           }
         ]
@@ -165,6 +165,10 @@
   },
   "active": "1ec6592a42cf1c4c",
   "lastOpenFiles": [
+    "static/img/elocity-social-card.png",
+    "docs/ReleaseNotes/Ver2400.md",
+    "docs/Resources/Datasheets.md",
+    "docs/AdminGuide/Assets/ManagingFirmware/ViewingFirmwareUpdates.md",
     "docs/AdminGuide/Assets/ManagingAssets/ManagingElectricVehicleModels.md",
     "docs/AdminGuide/Assets/ManagingAssets/ManagingElectricVehicleManufacturers.md",
     "docs/AdminGuide/Assets/ManagingStations.md",
@@ -185,8 +189,6 @@
     "docs/AdminGuide/GettingStarted/NotificationsandAlerts.md",
     "docs/AdminGuide/GettingStarted/SigningUp.md",
     "docs/AdminGuide/Dashboard/AbnormalEvents.md",
-    "docs/ReleaseNotes/Ver2400.md",
-    "docs/Resources/Datasheets.md",
     "docs/FAQs/FAQs.md",
     "docs/AdminGuide/Business/ManagingABusiness.md",
     "build/blog/rss.xml",
@@ -200,7 +202,6 @@
     "build/index.html",
     "build/docs/Resources/Datasheets/index.html",
     "build/icons/home.svg",
-    "docs/AdminGuide/ManagingCampaignGroups.md",
     "build/assets/images/Employee4-dc081fe205190923453a268eff169f5a.png",
     "build/assets/images/UploadCSV-99a7cf4506b55c871afee581fbdbf0cd.png",
     "build/assets/images/Campaign1-51ce45a94caad5f253b76441aed96369.png",
@@ -210,7 +211,6 @@
     "build/assets/images/Campaign2-d5451e8e62b1e81f7242ec0cd7dc8558.png",
     "build/assets/images/Employee3-2dda797a72bb5e0b39f9881326d63637.png",
     "build/assets/images/Employee2-ab442d3a8b774e9f206b08dd0621436c.png",
-    "docs/AdminGuide/ManagingNotifications.md",
     "Untitled.canvas"
   ]
 }

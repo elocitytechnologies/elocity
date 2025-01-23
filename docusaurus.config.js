@@ -20,7 +20,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Apiculus', // Usually your GitHub org/user name.
+  organizationName: 'Elocity', // Usually your GitHub org/user name.
   projectName: 'Technical Documentation', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -111,7 +111,7 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
 	  
     },
       // Replace with your project's social card
-      image: 'img/apiculus-social-card.png',
+      image: 'img/elocity-social-card.png',
       navbar: {
         title: '',
 		// hideOnScroll: true,
