@@ -1,8 +1,0 @@
-{
-  "label": "Managing Firmware",
-  "position": 7,
-  "link": {
-    "type": "generated-index",
-	  "description": "Site operators can perform firmware updates on the chargers, ensuring optimal performance."
-  }
-}

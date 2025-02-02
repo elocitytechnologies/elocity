@@ -1,8 +1,0 @@
-{
-  "label": "Managing Global Settings",
-  "position": 4,
-  "link": {
-    "type": "generated-index",
-	  "description": "Global Settings allow you to control application-wide settings, focusing mainly on tariff and reservation settings. "
-  }
-}

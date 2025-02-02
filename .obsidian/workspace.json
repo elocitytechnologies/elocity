@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6628818d8fb9ee41",
+        "id": "30f6eebaf9d5a20f",
         "type": "tabs",
         "children": [
           {
-            "id": "1ec6592a42cf1c4c",
+            "id": "52a8347dfcdae85c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/ReleaseNotes/intro.md",
+                "file": "docs/UserGuide/MobileAppFunctions/StartingandStoppingChargingSession.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "intro"
+              "title": "StartingandStoppingChargingSession"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -163,9 +164,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ec6592a42cf1c4c",
+  "active": "52a8347dfcdae85c",
   "lastOpenFiles": [
-    "static/img/elocity-social-card.png",
+    "docs/UserGuide/MobileAppFunctions/AddingMoneytoWallet.md",
+    "docs/UserGuide/MobileAppFunctions/ScanningQRCode.md",
+    "docs/UserGuide/MobileAppFunctions/UsingMap.md",
+    "docs/UserGuide/GettingStarted/SigningIn.md",
+    "docs/UserGuide/GettingStarted/CreatingAccount.md",
+    "docs/UserGuide/GettingStarted/DownloadingMobileApp.md",
+    "docs/UserGuide/MobileAppFunctions/AbnormalEvents.md",
+    "docs/UserGuide/MobileAppFunctions/StartingandStoppingChargingSession.md",
+    "docs/UserGuide/MobileAppFunctions/DashboardOverview.md",
+    "docs/FAQs/FAQs.md",
+    "docs/UserGuide/intro.md",
+    "docs/UserGuide/img/IMG_7071.png",
+    "docs/UserGuide/GettingStarted/img/iOS.png",
+    "docs/UserGuide/MobileAppFunctions/img/UtilizationvsOutages.png",
+    "docs/UserGuide/MobileAppFunctions/img/Utilization.png",
+    "docs/UserGuide/MobileAppFunctions/img/Uniquedrivers.png",
+    "docs/UserGuide/MobileAppFunctions/img/SubscribetoReports2.png",
+    "docs/UserGuide/MobileAppFunctions/img/SubscribetoReports.png",
+    "docs/UserGuide/MobileAppFunctions/img/StationsOverviewFilters3.png",
+    "docs/UserGuide/MobileAppFunctions/img/StationsOverviewFilters2.png",
+    "docs/UserGuide/MobileAppFunctions/img/Stationoutagesduration.png",
+    "docs/UserGuide/MobileAppFunctions/_category_.json",
+    "docs/UserGuide/MobileAppFunctions/img",
+    "docs/UserGuide/MobileAppFunctions",
+    "docs/UserGuide/GettingStarted/ResettingPassword.md",
+    "docs/UserGuide/GettingStarted/NotificationsandAlerts.md",
+    "docs/UserGuide/GettingStarted/AbbreviationsandTerminologies.md",
+    "docs/UserGuide/GettingStarted/StandardsandCertifications.md",
+    "docs/UserGuide/GettingStarted/GlobalActions.md",
+    "docs/UserGuide/New folder",
+    "docs/ReleaseNotes/intro.md",
     "docs/ReleaseNotes/Ver2400.md",
     "docs/Resources/Datasheets.md",
     "docs/AdminGuide/Assets/ManagingFirmware/ViewingFirmwareUpdates.md",
@@ -175,42 +206,12 @@
     "docs/AdminGuide/Assets/AddingNewLocation.md",
     "docs/AdminGuide/Assets/ManagingLocations.md",
     "node_modules/d3-dsv/README.md",
-    "node_modules/d3-hierarchy/README.md",
-    "docs/AdminGuide/Customers/ManagingCustomers/ManagingInactiveCustomers.md",
-    "docs/AdminGuide/Corporate/ManagingEmployees.md",
-    "docs/AdminGuide/Assets/AddingNewStations.md",
-    "docs/AdminGuide/RevenueShare/ManagingRevenueShareGroups.md",
-    "docs/AdminGuide/RevenueShare/ManagingEntities.md",
-    "docs/AdminGuide/Tariff/ManagingHolidays.md",
-    "docs/AdminGuide/Dashboard/Reporting.md",
-    "docs/AdminGuide/Dashboard/StationsDowntime.md",
-    "docs/AdminGuide/Dashboard/DashboardOverview.md",
-    "docs/AdminGuide/Dashboard/AlertsnNotifications.md",
-    "docs/AdminGuide/GettingStarted/NotificationsandAlerts.md",
-    "docs/AdminGuide/GettingStarted/SigningUp.md",
-    "docs/AdminGuide/Dashboard/AbnormalEvents.md",
-    "docs/FAQs/FAQs.md",
-    "docs/AdminGuide/Business/ManagingABusiness.md",
     "build/blog/rss.xml",
     "build/blog/atom.xml",
     "build/blog/rss.css",
     "build/blog/atom.css",
     "build/blog/atom.xsl",
     "build/blog/rss.xsl",
-    "build/search-index.json",
-    "build/sitemap.xml",
-    "build/index.html",
-    "build/docs/Resources/Datasheets/index.html",
-    "build/icons/home.svg",
-    "build/assets/images/Employee4-dc081fe205190923453a268eff169f5a.png",
-    "build/assets/images/UploadCSV-99a7cf4506b55c871afee581fbdbf0cd.png",
-    "build/assets/images/Campaign1-51ce45a94caad5f253b76441aed96369.png",
-    "build/assets/images/Employee1-8d9b47411d090f7c9904c4c377ff8af1.png",
-    "build/assets/images/Employee5-d6fb31462b6451cda9099b874c729bec.png",
-    "build/assets/images/MultipleEmployees-354621fa0ac87018ad0c63239c774f0f.png",
-    "build/assets/images/Campaign2-d5451e8e62b1e81f7242ec0cd7dc8558.png",
-    "build/assets/images/Employee3-2dda797a72bb5e0b39f9881326d63637.png",
-    "build/assets/images/Employee2-ab442d3a8b774e9f206b08dd0621436c.png",
     "Untitled.canvas"
   ]
 }

@@ -1,8 +1,0 @@
-{
-  "label": "Business",
-  "position": 10,
-  "link": {
-    "type": "generated-index",
-	"description": "A business refers to any organization or enterprise that utilizes Elocity’s solutions to manage and optimize electric vehicle (EV) charging. This includes businesses that own EV charging infrastructure, fleet operators, utilities, or any organization looking to adopt sustainable energy practices and improve operational efficiency in the electric mobility ecosystem. The Business module allows Tenant owners to onboard new Charge Point Operators (CPOs) onto the software. This feature provides flexibility for Tenant owners to expand their network by adding more CPOs."
-  }
-}
