@@ -175,7 +175,25 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
           position: 'right',
           className: 'button button--primary', // Add button classes here
         },
-		  	  
+		
+		 {
+          label: 'APIs',
+          position: 'left',
+          items: [
+            {
+              label: 'Charge Point Management System',
+              href: 'https://cpms-uat.hiev.network/api',
+            },
+            {
+              label: 'Analytics',
+              href: 'https://analytics-uat.hiev.network/api',
+            },
+			{
+              label: 'Account Management Service',
+              href: 'https://ams-uat.hiev.network/api',
+            },
+          ],
+        },
 		  ],
       },
     /*  footer: {
