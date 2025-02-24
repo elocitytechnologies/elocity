@@ -1,0 +1,8 @@
+{
+  "label": "Customers",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+	"description": "Elocity’s customers are EV owners and drivers who need reliable, user-friendly charging solutions to power their vehicles efficiently at home, work, or public stations."
+  }
+}

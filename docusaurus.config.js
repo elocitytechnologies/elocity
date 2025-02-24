@@ -8,12 +8,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'HIEV Mobile App',
-  tagline: '',
+  title: 'Elocity Documentation',
+  tagline: 'Find user guides, quickstarts, release notes, FAQs, and more for Service Providers and Subscribers.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://help.hiev.ca',
+  url: 'https://docs.hiev.ca',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -125,7 +125,7 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
             type: 'docSidebar',
             sidebarId: 'sidebar1',
             position: 'left',
-            label: 'User Guide',
+            label: 'Admin Guide',
 			position: "left",
           },
 	 
@@ -164,7 +164,7 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
             {
               label: 'Global APIs',
               href: 'https://swagger.apiculus.io',
-            },	
+            },
           ],
         },
 		   */
@@ -188,12 +188,14 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
           ],
         },
 		
+		
 		  {
-          href: 'https://hiev.ca', // Change to the desired link.
-          label: 'Download App', // The label of your button.
+          href: 'https://hiev.ca', // Change to the desired link
+          label: 'HIEV Portal', // The label of your button
           position: 'right',
           className: 'button button--primary', // Add button classes here
         },
+		  	  
 		  ],
       },
     /*  footer: {

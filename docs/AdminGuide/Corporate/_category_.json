@@ -1,0 +1,8 @@
+{
+  "label": "Corporate",
+  "position": 13,
+  "link": {
+    "type": "generated-index",
+	"description": "This section enables Charge Point Operators (CPOs) to establish B2B relationships with businesses seeking EV charging discounts. CPOs can add business details and select the networks where these businesses can avail discounts."
+  }
+}

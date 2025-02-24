@@ -1,0 +1,8 @@
+{
+  "label": "Administration",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+	"description": "The Administration section provides tools to control access to the web portal."
+  }
+}
