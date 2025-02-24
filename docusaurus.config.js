@@ -8,12 +8,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Elocity Documentation',
-  tagline: 'Find user guides, quickstarts, release notes, FAQs, and more for Service Providers and Subscribers.',
+  title: 'HIEV Mobile App',
+  tagline: '',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://docs.hiev.ca',
+  url: 'https://help.hiev.ca',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -125,7 +125,7 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
             type: 'docSidebar',
             sidebarId: 'sidebar1',
             position: 'left',
-            label: 'Admin Guide',
+            label: 'User Guide',
 			position: "left",
           },
 	 
@@ -164,18 +164,36 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
             {
               label: 'Global APIs',
               href: 'https://swagger.apiculus.io',
-            },
+            },	
           ],
         },
 		   */
 		  
 		  {
           href: 'https://hiev.ca', // Change to the desired link
-          label: 'HIEV Portal', // The label of your button
+          label: 'Download App', // The label of your button
           position: 'right',
           className: 'button button--primary', // Add button classes here
         },
-		  	  
+		
+		 {
+          label: 'APIs',
+          position: 'left',
+          items: [
+            {
+              label: 'Charge Point Management System',
+              href: 'https://cpms-uat.hiev.network/api',
+            },
+            {
+              label: 'Analytics',
+              href: 'https://analytics-uat.hiev.network/api',
+            },
+			{
+              label: 'Account Management Service',
+              href: 'https://ams-uat.hiev.network/api',
+            },
+          ],
+        },
 		  ],
       },
     /*  footer: {
