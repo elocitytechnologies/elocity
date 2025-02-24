@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/ReleaseNotes/intro.md",
+                "file": "docs/AdminGuide/Dashboard/Reporting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "intro"
+              "title": "Reporting"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -165,6 +166,10 @@
   },
   "active": "1ec6592a42cf1c4c",
   "lastOpenFiles": [
+    "docs/AdminGuide/Dashboard/img/filters.png",
+    "docs/AdminGuide/Dashboard/img/Filters.png",
+    "docs/AdminGuide/Dashboard/Reporting.md",
+    "docs/ReleaseNotes/intro.md",
     "static/img/elocity-social-card.png",
     "docs/ReleaseNotes/Ver2400.md",
     "docs/Resources/Datasheets.md",
@@ -182,7 +187,6 @@
     "docs/AdminGuide/RevenueShare/ManagingRevenueShareGroups.md",
     "docs/AdminGuide/RevenueShare/ManagingEntities.md",
     "docs/AdminGuide/Tariff/ManagingHolidays.md",
-    "docs/AdminGuide/Dashboard/Reporting.md",
     "docs/AdminGuide/Dashboard/StationsDowntime.md",
     "docs/AdminGuide/Dashboard/DashboardOverview.md",
     "docs/AdminGuide/Dashboard/AlertsnNotifications.md",
@@ -190,7 +194,6 @@
     "docs/AdminGuide/GettingStarted/SigningUp.md",
     "docs/AdminGuide/Dashboard/AbnormalEvents.md",
     "docs/FAQs/FAQs.md",
-    "docs/AdminGuide/Business/ManagingABusiness.md",
     "build/blog/rss.xml",
     "build/blog/atom.xml",
     "build/blog/rss.css",
@@ -209,8 +212,6 @@
     "build/assets/images/Employee5-d6fb31462b6451cda9099b874c729bec.png",
     "build/assets/images/MultipleEmployees-354621fa0ac87018ad0c63239c774f0f.png",
     "build/assets/images/Campaign2-d5451e8e62b1e81f7242ec0cd7dc8558.png",
-    "build/assets/images/Employee3-2dda797a72bb5e0b39f9881326d63637.png",
-    "build/assets/images/Employee2-ab442d3a8b774e9f206b08dd0621436c.png",
     "Untitled.canvas"
   ]
 }
