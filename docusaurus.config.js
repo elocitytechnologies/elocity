@@ -170,13 +170,6 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
 		   */
 		  
 		  {
-          href: 'https://hiev.ca', // Change to the desired link
-          label: 'Download App', // The label of your button
-          position: 'right',
-          className: 'button button--primary', // Add button classes here
-        },
-		
-		 {
           label: 'APIs',
           position: 'left',
           items: [
@@ -193,6 +186,13 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
               href: 'https://ams-uat.hiev.network/api',
             },
           ],
+        },
+		
+		  {
+          href: 'https://hiev.ca', // Change to the desired link.
+          label: 'Download App', // The label of your button.
+          position: 'right',
+          className: 'button button--primary', // Add button classes here
         },
 		  ],
       },
