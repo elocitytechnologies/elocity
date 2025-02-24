@@ -1,0 +1,8 @@
+{
+  "label": "Load Management",
+  "position": 11,
+  "link": {
+    "type": "generated-index",
+	"description": " Load management allows Charge Point Operators (CPOs) to configure chargers based on the available load at various locations."
+  }
+}

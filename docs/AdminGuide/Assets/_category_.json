@@ -1,0 +1,8 @@
+{
+  "label": "Assets",
+  "position": 6,
+  "link": {
+    "type": "generated-index",
+	"description": "The Assets section serves as a centralized space for managing various assets, including location settings, station configurations, and more."
+  }
+}
