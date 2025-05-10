@@ -20,7 +20,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Apiculus', // Usually your GitHub org/user name.
+  organizationName: 'Elocity', // Usually your GitHub org/user name.
   projectName: 'Technical Documentation', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -111,7 +111,7 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
 	  
     },
       // Replace with your project's social card
-      image: 'img/apiculus-social-card.png',
+      image: 'img/elocity-social-card.png',
       navbar: {
         title: '',
 		// hideOnScroll: true,
@@ -148,7 +148,7 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
             type: 'docSidebar',
             sidebarId: 'sidebar4',
             position: 'left',
-            label: 'ReleaseNotes',
+            label: 'Release Notes',
           },
 		  
 	/*	  Here is how you create a drop-down
@@ -170,8 +170,28 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
 		   */
 		  
 		  {
+          label: 'APIs',
+          position: 'left',
+          items: [
+            {
+              label: 'Charge Point Management System',
+              href: 'https://cpms-uat.hiev.network/api',
+            },
+            {
+              label: 'Analytics',
+              href: 'https://analytics-uat.hiev.network/api',
+            },
+			{
+              label: 'Account Management Service',
+              href: 'https://ams-uat.hiev.network/api',
+            },
+          ],
+        },
+		
+		
+		  {
           href: 'https://hiev.ca', // Change to the desired link
-          label: 'Go to Hiev', // The label of your button
+          label: 'HIEV Portal', // The label of your button
           position: 'right',
           className: 'button button--primary', // Add button classes here
         },

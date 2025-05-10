@@ -1,0 +1,8 @@
+{
+  "label": "Bulk Operations",
+  "position": 14,
+  "link": {
+    "type": "generated-index",
+	"description": "As an admin, you can perform the following bulk operations:"
+  }
+}
